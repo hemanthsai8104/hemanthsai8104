@@ -16,7 +16,3 @@ Full Stack GenAI Engineer building AI-integrated backends and full-stack applica
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
-
-### GitHub Stats
-
-![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanthsai8104&show_icons=true&theme=dark)
