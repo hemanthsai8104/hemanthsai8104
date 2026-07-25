@@ -30,6 +30,4 @@ Full Stack GenAI Engineer building AI-integrated backends and full-stack applica
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hemanthsai8104&layout=compact&theme=dark)
 
-### Achievements
-
-![trophies](https://github-profile-trophy.vercel.app/?username=hemanthsai8104&row=1&column=6)
+![Profile Views](https://komarev.com/ghpvc/?username=hemanthsai8104&color=blue)
