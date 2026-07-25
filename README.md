@@ -14,7 +14,11 @@ Full Stack GenAI Engineer building AI-integrated backends and full-stack applica
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
 
 ### GitHub Stats
