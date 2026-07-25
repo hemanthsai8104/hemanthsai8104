@@ -20,6 +20,7 @@ Full Stack GenAI Engineer building AI-integrated backends and full-stack applica
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ### GitHub Stats
 
@@ -27,8 +28,8 @@ Full Stack GenAI Engineer building AI-integrated backends and full-stack applica
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthsai8104&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hemanthsai8104&layout=compact&theme=dark)
 
 ### Achievements
 
-![trophies](https://github-profile-trophy.vercel.app/?username=hemanthsai8104&theme=darkhub&no-frame=true&row=1&column=6)
+![trophies](https://github-profile-trophy.vercel.app/?username=hemanthsai8104&theme=dark&no-frame=true&row=1&column=6)
