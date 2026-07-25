@@ -32,4 +32,4 @@ Full Stack GenAI Engineer building AI-integrated backends and full-stack applica
 
 ### Achievements
 
-![trophies](https://github-profile-trophy.vercel.app/?username=hemanthsai8104&theme=dark&no-frame=true&row=1&column=6)
+![trophies](https://github-profile-trophy.vercel.app/?username=hemanthsai8104&row=1&column=6)
