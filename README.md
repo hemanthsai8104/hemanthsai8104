@@ -2,7 +2,7 @@
 
 Full Stack GenAI Engineer building AI-integrated backends and full-stack applications with Python, FastAPI, React, and LLMs (RAG, LangChain).
 
-- 🔭 Currently building **FastTrade99** and **FastSales** @ [GenAI Lakes](https://genailakes.com/)
+- 🔭 Currently building **FastTrade99** and **FastSales** @ [GenAI Lakes](https://genailakes.ai)
 - 🧠 Focused on LLM-powered apps, RAG pipelines, and scalable backend systems
 - 🌱 Always exploring new AI tooling and backend architecture patterns
 - 📫 Reach me: hemanthsaidonavalli@gmail.com
@@ -17,6 +17,14 @@ Full Stack GenAI Engineer building AI-integrated backends and full-stack applica
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
 
-GitHub stats
+### GitHub Stats
 
 ![Hemanth's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hemanthsai8104&show_icons=true&theme=dark)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthsai8104&layout=compact&theme=dark)
+
+### Achievements
+
+![trophies](https://github-profile-trophy.vercel.app/?username=hemanthsai8104&theme=darkhub&no-frame=true&row=1&column=6)
